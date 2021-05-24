@@ -1,6 +1,4 @@
-## For the code to run, the following `dev dependencies` need to be installed:
-- `enzyme`
-- `enzyme-adapter-react-16`
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
